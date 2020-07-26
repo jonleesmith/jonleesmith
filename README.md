@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Full-stack Developer. 
+
+❤️ Tailwind, Vue.js, Node.js, Laravel, and oxford commas.
+
+I’m currently working on my first React Native app.
+
+@jonleesmith
+
 <!--
 **jonleesmith/jonleesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
