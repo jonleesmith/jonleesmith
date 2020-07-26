@@ -9,6 +9,7 @@ I’m currently learning React Native via https://codewithmosh.com
 How to reach me:
 
 Email: jonleesmith@me.com
+
 Twitter: @jonleesmith
 
 PS: Don't bother going to my portfolio http://jonleesmith.co.uk
