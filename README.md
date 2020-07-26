@@ -6,6 +6,10 @@ Full-stack Developer from Bristol, UK
 
 I’m currently working on my first React Native app.
 
+Don't bother going to my portfolio http://jonleesmith.co.uk/
+
+jonleesmith@me.com
+
 @jonleesmith
 
 <!--
