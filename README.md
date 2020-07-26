@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-stack Developer. 
+Full-stack Developer from Bristol, UK
 
 ❤️ Tailwind, Vue.js, Node.js, Laravel, and oxford commas.
 
