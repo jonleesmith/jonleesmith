@@ -4,13 +4,14 @@ Full-stack Developer from Bristol, UK
 
 ❤️ Tailwind, Vue.js, Node.js, Laravel, and oxford commas.
 
-I’m currently working on my first React Native app.
+I’m currently learning React Native via https://codewithmosh.com
 
-Don't bother going to my portfolio http://jonleesmith.co.uk/
+How to reach me:
 
-jonleesmith@me.com
+Email: jonleesmith@me.com
+Twitter: @jonleesmith
 
-@jonleesmith
+PS: Don't bother going to my portfolio http://jonleesmith.co.uk
 
 <!--
 **jonleesmith/jonleesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
