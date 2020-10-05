@@ -4,7 +4,7 @@ Full-stack Developer from Bristol, UK
 
 ❤️ Tailwind, Vue.js, Node.js, Laravel, and oxford commas.
 
-I’m currently learning React / React Native via https://codewithmosh.com
+Currently exploring: GraphQL
 
 How to reach me:
 
