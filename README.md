@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-Full-stack Developer from Bristol, UK
+Full-Stack Developer from Bristol, UK
 
-❤️ Tailwind, Vue.js, Node.js, Laravel, and oxford commas.
+❤️ React | Next | Node | Tailwind | ShadCN
 
-Currently exploring: GraphQL
+Currently exploring - Appwrite / Supabase
 
 How to reach me:
 
-Email: jonleesmith@me.com
-
+Email: jonleesmith (at) me.com
 Twitter: @jonleesmith
-
-PS: Don't bother going to my portfolio http://jonleesmith.co.uk
 
 <!--
 **jonleesmith/jonleesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
