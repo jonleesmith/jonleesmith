@@ -2,9 +2,9 @@
 
 Full-Stack Developer from Bristol, UK
 
-❤️ React - Web & Native | Next | Node | Tailwind | ShadCN
+❤️ React - Web & Native | Next.js | Node | Tailwind | ShadCN | Postgres | Supabase
 
-Currently exploring - Appwrite / Supabase
+Currently building: SaaS with Next.js & Supabase
 
 How to reach me:
 
