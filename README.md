@@ -4,8 +4,6 @@ Full-Stack Developer from Bristol, UK
 
 Currently building: App with Next.js & Convex
 
-How to reach me:
-
 X: @jonleesmith
 
 <!--
