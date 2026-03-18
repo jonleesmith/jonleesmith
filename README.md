@@ -2,14 +2,11 @@
 
 Full-Stack Developer from Bristol, UK
 
-❤️ React - Web & Native | Next.js | Node | Tailwind | ShadCN | Postgres | Supabase
-
-Currently building: SaaS with Next.js & Supabase
+Currently building: App with Next.js & Convex
 
 How to reach me:
 
-Email: jonleesmith (at) me.com
-Twitter: @jonleesmith
+X: @jonleesmith
 
 <!--
 **jonleesmith/jonleesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
